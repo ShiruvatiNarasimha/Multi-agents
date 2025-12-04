@@ -3,6 +3,7 @@
 
 
 
+![Screenshot](Screenshot%202025-12-04%20141742.png)
 
 # Feature Integration Analysis - How Everything Connects
 
