@@ -1,10 +1,6 @@
 # MultiOps: AI-Native Workspace Platform
 
 
-
-
-![Screenshot](Screenshot%202025-12-04%20141742.png)
-
 # Feature Integration Analysis - How Everything Connects
 
 ## 🔗 Complete Integration Map
@@ -62,6 +58,11 @@ This document details how all features are connected and work together in the pl
 ```
 
 ---
+
+
+
+![Screenshot](https://github.com/ShiruvatiNarasimha/Multi-agents/blob/277d5a71c4dc9e2a68585637a53e4ce1e1222927/Screenshot%202025-12-04%20142131.png)
+![Screenshot](Screenshot%202025-12-04%20141742.png)
 
 ## 🔗 Detailed Integration Connections
 
